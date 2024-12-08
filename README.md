@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Machine Learning Techniques**
 - 👨‍💻 All of my projects are available at **[isaacmedrano.tech](https://www.isaacmedrano.tech/)**
 - 💬 Ask me about **JavaScript, Python, Node.js**
-- 📫 How to reach me **isaac@medrano.tech**
+- 📫 How to reach me **dev.zacknmr28@gmail.com**
 - ⚡ Fun fact **I once built a neural network to predict the next perfect number!**
 
 <h3 align="left">Connect with me:</h3>
